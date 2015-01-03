@@ -1,5 +1,5 @@
 body {
-	background: url("Assets/stripes.png"), url("Assets/background.jpg");
+	background: url("assets/stripes.png"), url("assets/background.jpg");
 	background-repeat: repeat-x, no-repeat;
 	background-size: 50%, cover;
 	background-positon: left top, top;
@@ -8,7 +8,7 @@ body {
 
 
 img.stripe {
-	background: url("Assets/stripes.png");
+	background: url("assets/stripes.png");
 	background-repeat: repeat-x;
 	background-position: left top;
 	width: 100%;
